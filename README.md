@@ -1,1 +1,1 @@
-# LittleLemon
+# LittleLemon capstone project
